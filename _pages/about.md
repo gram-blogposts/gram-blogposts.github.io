@@ -29,4 +29,4 @@ The format and process for this blog post track is as follows:
 
 - The posts will be hosted on this website.
 
-Note that the submission, reviewing and publication process of the blogposts are directly inspired by the [ICLR track](https://iclr-blogposts.github.io/). See the [instruction page]({{ '/instructions/' | relative_url }}) for detailed instructions.
+Note that the submission, reviewing and publication process of the blogposts are directly inspired by the [ICLR track](https://iclr-blogposts.github.io/). See the [instruction page]({{ '/instructions/'}}) for detailed instructions.
