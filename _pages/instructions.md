@@ -1,7 +1,7 @@
 ---
 layout: page
 title: instructions
-permalink: /instructions
+permalink: /instructions/
 description:
 nav: true
 nav_order: 2
