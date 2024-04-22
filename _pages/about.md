@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### GRAM Workshop
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. It includes three tracks: a proceedings track used to publish original research, a tutorial track in the form of a Google Collab, and a blogpost track. In this track, we intend to encourage transparent discussions and opinions in the field, and make the science more accessible. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+### Call for blog posts 
+
+The format and process for this blog post track is as follows:
+
+- The post can be written on any subject linked to the [GRaM workshop](https://gram-workshop.github.io/). It can provide an opinion about some aspects of the field, list a series of open problems, explain mathematical concepts in a pedagogical way, or explain a published paper, provided that the authors of the blogpost don't have any conflict of interest with the authors of the said-paper.
+
+- The blogs will be peer-reviewed in a double-blind way. To be accepted, submissions must meet criteria such as content quality and novelty, clear and pedagogical presentation, new insights in theory or practice, and reproducibility or enhancement of experiments.
+
+- The posts will be hosted on this website.
+
+Note that the submission, reviewing and publication process of the blogposts are directly inspired by the [ICLR track](https://iclr-blogposts.github.io/). See the [instruction page]({{ '/instructions/' | relative_url }}) for detailed instructions. 
+
+
