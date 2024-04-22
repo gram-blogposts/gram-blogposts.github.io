@@ -6,21 +6,20 @@ subtitle:
 
 profile:
   align: right
-  image: 
+  image:
   image_circular: false # crops the image to make it circular
-  address: 
+  address:
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 ### GRAM Workshop
 
-The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. It includes three tracks: a proceedings track used to publish original research, a tutorial track in the form of a Google Collab, and a blogpost track. In this track, we intend to encourage transparent discussions and opinions in the field, and make the science more accessible. 
+The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. It includes three tracks: a proceedings track used to publish original research, a tutorial track in the form of a Google Collab, and a blogpost track. In this track, we intend to encourage transparent discussions and opinions in the field, and make the science more accessible.
 
-
-### Call for blog posts 
+### Call for blog posts
 
 The format and process for this blog post track is as follows:
 
@@ -30,6 +29,4 @@ The format and process for this blog post track is as follows:
 
 - The posts will be hosted on this website.
 
-Note that the submission, reviewing and publication process of the blogposts are directly inspired by the [ICLR track](https://iclr-blogposts.github.io/). See the [instruction page]({{ '/instructions/' | relative_url }}) for detailed instructions. 
-
-
+Note that the submission, reviewing and publication process of the blogposts are directly inspired by the [ICLR track](https://iclr-blogposts.github.io/). See the [instruction page]({{ '/instructions/' | relative_url }}) for detailed instructions.
