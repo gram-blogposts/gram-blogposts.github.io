@@ -23,7 +23,7 @@ The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](h
 
 The format and process for this blog post track is as follows:
 
-- The post can be written on any subject linked to the [GRaM workshop](https://gram-workshop.github.io/). It can provide an opinion about some aspects of the field, list a series of open problems, explain mathematical concepts in a pedagogical way, or explain a published paper, provided that the authors of the blogpost don't have any conflict of interest with the authors of the said-paper.
+- The post can be written on any subject linked to the [GRaM workshop](https://gram-workshop.github.io/). It can offer insights on certain aspects of the field, list a series of open problems, explain mathematical concepts in a pedagogical way, or discuss a research paper, as long as the blog post's authors have no conflicts of interest with the authors of the mentioned paper.
 
 - The blogs will be peer-reviewed in a double-blind way. To be accepted, submissions must meet criteria such as content quality and novelty, clear and pedagogical presentation, new insights in theory or practice, and reproducibility or enhancement of experiments.
 
