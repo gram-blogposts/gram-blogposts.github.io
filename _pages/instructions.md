@@ -15,7 +15,7 @@ nav_order: 2
 ### Instructions for Submitting a Blog Post
 
 1. **Fork and Rename**:
-   - Navigate to the [staging repository](#) (link to be provided).
+   - Navigate to the [staging repository](https://github.com/gram-blogposts/staging/).
    - Click on the "Fork" button of the repository page to create a copy of the repository under your GitHub account.
    - After forking, rename your repository to reflect the topic of your submission. 
 
@@ -58,6 +58,6 @@ nav_order: 2
 ### Further questions
 
 - Our Blogpost track is directly inspired by the ICLR Blogpost track. If you have problems building your website or modifying any file, you can have a look at their [instructions](https://iclr-blogposts.github.io/2024/submitting/).
-- Feel free to reach out to the organizers at: [organizers AT gram-workshop DOT org](organizers@gram-workshop.org)
+- Feel free to reach out to the organizers at: [organizers AT gram-workshop DOT org](mailto:organizers@gram-workshop.org)
 
 
