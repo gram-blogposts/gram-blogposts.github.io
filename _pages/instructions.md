@@ -21,6 +21,7 @@ nav_order: 2
    - Click on the "Fork" button of the repository page to create a copy of the repository under your GitHub account.
    - After forking, rename your repository to reflect the topic of your submission.
 
+
 2. **Setup and Deployment**:
 
    - Clone your forked repository to your local machine.
@@ -36,6 +37,7 @@ nav_order: 2
 
    - Your can locally access and modify the website on the local address: `http://127.0.0.1:4000/`.
 
+
 3. **Preparing Your Submission**:
    You can copy and modify the [Distill Template]({% post_url 2018-12-22-distill %}), found under the `_posts` directory. Leave the original template as it is.
 
@@ -43,6 +45,7 @@ nav_order: 2
    - Add any static image to `assets/img/YYYY-MM-DD-your-submission/`.
    - Add any interactive plotly figures to `assets/plotly/YYYY-MM-DD-your-submission/`.
    - Put your citations into a bibtex file in `assets/bibliography/YYYY-MM-DD-your-submission.bib`.
+
 
 4. **Submit a Pull Request**:
 
@@ -52,8 +55,10 @@ nav_order: 2
    - Ensure the pull request is directed to the staging repository and name the pull request after your submission topic.
    - Provide a clear and concise description of your changes in the pull request description.
 
-5. **Submit to Open Review**:
-   - Once your pull request is submitted, provide the title and URL of your blog post via OpenReview.
+
+5. **Fill out the Google Form**:
+   - After submitting a pull request, we will gather all the submission's information through this Google Form: https://forms.gle/pMmPvAqCvVTQP6eo6
+   - You will need to review anonymously two other blogposts or tutorial that will be assigned to you through another form that will be sent by email. You will have a week to submit your reviews, and the decision on your blogpost or tutorial will be made before the 8th of July.
 
 ### Review and Publication
 

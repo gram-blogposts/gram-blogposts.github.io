@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. It includes three tracks: a proceedings track used to publish original research, a tutorial track in the form of a Google Collab, and a blogpost track. In this track, we intend to encourage transparent discussions and opinions in the field, and make the science more accessible.
 
-### Call for blog posts
+### Call for blog posts: Deadline 30th of June AOE
 
 The format and process for this blog post track is as follows:
 
