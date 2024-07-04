@@ -57,7 +57,7 @@ nav_order: 2
 
 
 5. **Fill out the Google Form**:
-   - After submitting a pull request, we will gather all the submission's information through this Google Form: https://forms.gle/pMmPvAqCvVTQP6eo6
+   - After submitting a pull request, we will gather all the submission's information through this Google Form:https://forms.gle/pMmPvAqCvVTQP6eo6
    - You will need to review anonymously two other blogposts or tutorial that will be assigned to you through another form that will be sent by email. You will have a week to submit your reviews, and the decision on your blogpost or tutorial will be made before the 8th of July.
 
 ### Review and Publication
