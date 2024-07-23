@@ -3,7 +3,7 @@ layout: distill
 title: Effect of equivariance on training dynamics
 description: Can relaxing equivariance help in finding better minima?
 tags: distill formatting
-giscus_comments: true
+giscus_comments: false
 date: 2024-07-20
 featured: true
 

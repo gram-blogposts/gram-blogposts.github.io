@@ -3,7 +3,7 @@ layout: distill
 title: "Grasping Graphormer : Assessing Transformer Performance for Graph Representation"
 description: A first-principles blog post to understand the Graphormer.
 tags: graph representation learning
-giscus_comments: true
+giscus_comments: false
 date: 2024-06-30
 featured: true
 

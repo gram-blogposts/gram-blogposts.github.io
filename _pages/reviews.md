@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: reviews
 permalink: /reviews/
@@ -45,4 +45,4 @@ nav_order: 2
 * Your own blog post is also visible -- if you notice that it's not rendering the way you want, don't worry. You can still modify your pull request to add, for examples, the missing references, or fix the figures. 
 * We ask the reviewers to judge the clarity and the pedagogical aspects of the blog post, by completing the following [Google Form.](https://forms.gle/Y69471ZL98JYY59LA)
 
-Thank you for your help!
+Thank you for your help! -->

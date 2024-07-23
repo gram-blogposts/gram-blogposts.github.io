@@ -3,7 +3,7 @@ layout: distill
 title: Correct, Incorrect and Extrinsic Equivariance
 description: What happens if we use an equivariant network when there is a mismatch between the model symmetry and the problem symmetry?
 tags: distill formatting
-giscus_comments: true
+giscus_comments: false
 date: 2024-07-07
 featured: true
 

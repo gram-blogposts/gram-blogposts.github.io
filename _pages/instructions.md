@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: instructions
 permalink: /instructions/
@@ -68,4 +68,4 @@ nav_order: 2
 ### Further questions
 
 - Our Blogpost track is directly inspired by the ICLR Blogpost track. If you have problems building your website or modifying any file, you can have a look at their [instructions](https://iclr-blogposts.github.io/2024/submitting/).
-- Feel free to reach out to the organizers at: [organizers AT gram-workshop DOT org](mailto:organizers@gram-workshop.org)
+- Feel free to reach out to the organizers at: [organizers AT gram-workshop DOT org](mailto:organizers@gram-workshop.org) -->

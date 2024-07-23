@@ -3,7 +3,7 @@ layout: distill
 title: Equivariant Neural Fields - continuous representations grounded in geometry
 description: An intro to geometry-grounded continuous signal representations and their use in modelling spatio-temporal dynamics.
 tags: equivariance geometry neural-fields
-giscus_comments: true
+giscus_comments: false
 date: 2024-06-01
 featured: true
 

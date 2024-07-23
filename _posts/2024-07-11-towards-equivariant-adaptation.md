@@ -3,7 +3,7 @@ layout: distill
 title: Towards Equivariant Adaptation of Large Pretrained Models
 description: How do you make your foundation model <ins>equivariant and robust</ins> to known transformations without re-training from scratch? 
 tags: distill formatting
-giscus_comments: true
+giscus_comments: false
 date: 2024-07-21
 featured: true
 
