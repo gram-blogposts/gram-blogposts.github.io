@@ -3,7 +3,7 @@ layout: distill
 title: Equivariant Neural Fields - continuous representations grounded in geometry
 description: An intro to geometry-grounded continuous signal representations and their use in modelling spatio-temporal dynamics.
 tags: equivariance geometry neural-fields
-giscus_comments: false
+giscus_comments: true
 date: 2024-06-01
 featured: true
 
@@ -75,8 +75,6 @@ A major limitation of NeFs as representation is their lack of interpretibility a
 ### The Evolution of Neural Fields
 
 Neural fields are functions that map spatial coordinates to feature representations. For instance, a neural field $$ f_{\theta}: \mathbb{R}^d \rightarrow \mathbb{R}^c $$ can map pixel coordinates $$ x $$ to RGB values to represent images. These fields are typically parameterized by neural networks, which are optimized to approximate a target signal $$f_\theta$$ within a reconstruction task. Although this gives rise to continuous representations, for multiple signals, the weights $$\theta_f$$ are optimized separately for each signal $$ f $$, leading to a lack of shared structure across different signals and the need to train different seperate models.
-
-Neural fields are functions that map spatial coordinates to feature representations. Specifically, a neural field $$ f_{\theta}: \mathbb{R}^d \rightarrow \mathbb{R}^c $$ can map pixel coordinates $$ x $$ to RGB values, thereby representing images. These fields are typically parameterized by neural networks and optimized to approximate a target signal $$f_\theta$$ within a reconstruction task.
 
 While this approach results in continuous representations, it also presents a significant drawback. For multiple signals, the weights $$\theta_f$$ must be optimized separately for each signal $$ f $$ This leads to a lack of shared structure across different signals and necessitates training separate models for each individual signal.
 <div class="row mt-3">

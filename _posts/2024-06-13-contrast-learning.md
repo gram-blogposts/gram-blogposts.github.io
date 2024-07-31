@@ -12,7 +12,10 @@ authors:
     url: "https://patrickfeeney.github.io/"
     affiliations:
       name: Tufts University
-
+  - name: Michael C. Hughes
+    url: "https://www.michaelchughes.com/"
+    affiliations:
+      name: Tufts University
 toc:
   - name: Similarity Functions
     subsections:

@@ -16,15 +16,12 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ### GRAM Workshop @ ICML 2024
-**Follow us on X [@GRaM_org_](https://x.com/GRaM_org_), we will be live tweeting keynote talks! Our schedule is on the [ICML page](https://icml.cc/virtual/2024/workshop/29975)** 
 
+The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. **In this Blogpost-Tutorial track**, we intend to encourage transparent discussions and opinions in the field, and make geometric machine learning more accessible. 
 
-The Geometric-Grounded Representation Learning and Generative Modelling [GRaM](https://gram-workshop.github.io/) workshop aims to provide a platform that fosters learning, collaboration, and the advancement of the geometry-grounded methods in machine learning. It includes three tracks: a proceedings track used to publish original research, a tutorial track in the form of a Google Collab, and a blogpost track. In this track, we intend to encourage transparent discussions and opinions in the field, and make the science more accessible.
-
+This blogpost track is directly inspired by the amazing [ICLR blogpost track](https://iclr-blogposts.github.io/). :heart:
 
 We are pleased to announce the **blogposts and tutorials accepted** at our workshop! 
-
-**Congratulations to all the authors! Come and chat with them at our [poster sessions](https://icml.cc/virtual/2024/workshop/29975). :-)**
 
 ### Accepted Blogposts:
 * [Do Transformers Really Perform Bad for Graph Representation?]({% post_url 2024-06-30-graphormer %})
@@ -44,6 +41,12 @@ _We recommend using Safari for accurately rendering MathJax formulas on Google C
 * [Data Representations on the Bregman Manifold](https://colab.research.google.com/drive/14nf0w9b-SdgRGBrFstrKfHwToypO3_LP?usp=sharing)
 * [PHATE Representations Can Effectively Capture Continuous Population Structure in Human Genomic Data](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2?usp=sharing)
 * [LaB-GATr: Detailed Model Reference And Usage Tutorial](https://colab.research.google.com/drive/11hqBtg_FtNPpp9aGrq2KTdhDHeQgch2n?usp=sharing#scrollTo=1672d1f3e0fe894)
+
+
+### This is just the beginning!
+**Do you feel like writting a blogpost or a tutorial that is linked with geometry?** We would love to host you! 
+
+Check our [instructions](/instructions/) to submit your blogpost as a pull request. You can also write a [colab](https://colab.research.google.com/) notebook. Don't forget to ping our GRaM co-organiser: alison.pouplin &#91;&#97;&#116;&#93; aalto &#91;&#100;&#111;&#116;&#93; fi :cherry_blossom:
 
 
 

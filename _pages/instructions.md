@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: instructions
 permalink: /instructions/
@@ -56,9 +56,9 @@ nav_order: 2
    - Provide a clear and concise description of your changes in the pull request description.
 
 
-5. **Fill out the Google Form**:
+<!-- 5. **Fill out the Google Form**:
    - After submitting a pull request, we will gather all the submission's information through this Google Form:https://forms.gle/pMmPvAqCvVTQP6eo6
-   - You will need to review anonymously two other blogposts or tutorial that will be assigned to you through another form that will be sent by email. You will have a week to submit your reviews, and the decision on your blogpost or tutorial will be made before the 8th of July.
+   - You will need to review anonymously two other blogposts or tutorial that will be assigned to you through another form that will be sent by email. You will have a week to submit your reviews, and the decision on your blogpost or tutorial will be made before the 8th of July. -->
 
 ### Review and Publication
 
@@ -67,5 +67,7 @@ nav_order: 2
 
 ### Further questions
 
-- Our Blogpost track is directly inspired by the ICLR Blogpost track. If you have problems building your website or modifying any file, you can have a look at their [instructions](https://iclr-blogposts.github.io/2024/submitting/).
-- Feel free to reach out to the organizers at: [organizers AT gram-workshop DOT org](mailto:organizers@gram-workshop.org) -->
+- Our Blogpost track is directly inspired by the (amazing) [ICLR Blogpost track](https://iclr-blogposts.github.io/). If you have problems building your website or modifying any file, you can have a look at their [instructions](https://iclr-blogposts.github.io/2024/submitting/).
+- Feel free to reach out to the organizers at:
+   - organizers &#91;&#97;&#116;&#93; gram-workshop &#91;&#100;&#111;&#116;&#93; org
+   - alison.pouplin &#91;&#97;&#116;&#93; aalto &#91;&#100;&#111;&#116;&#93; fi
