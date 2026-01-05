@@ -202,7 +202,7 @@ keep_files:
   - .nojekyll
 
 # Plug-ins
-plugins:bundle install
+plugins:
   - jekyll-redirect-from
   - jekyll-archives-v2
   - jekyll-email-protect
